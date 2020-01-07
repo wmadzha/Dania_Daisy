@@ -15,3 +15,11 @@ In this template ,  Azure Table , Event Log , SQL Database  for centralized , Co
 
 ![alt text](
 https://github.com/wmadzha/Dania_Daisy/blob/master/assets/Centralized%20Sink.png?raw=true)
+
+
+Sample Output . 
+
+In below sample output , we're trying to simulate a situation where we have 3 instance of microserice applications that is hitting our data store and each of them is required to log their audit trail into a centralized database ( in this case display in console ) . 
+
+![alt text](
+https://github.com/wmadzha/Dania_Daisy/blob/master/assets/Sample%20Dania%20Daisy%20Output.png?raw=true)
