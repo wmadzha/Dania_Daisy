@@ -1,0 +1,8 @@
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\bin\Debug\netstandard2.0\DaniaDaisy.EntityFramework.deps.json
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\bin\Debug\netstandard2.0\DaniaDaisy.EntityFramework.dll
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\obj\Debug\netstandard2.0\DaniaDaisy.EntityFramework.csprojAssemblyReference.cache
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\obj\Debug\netstandard2.0\DaniaDaisy.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\obj\Debug\netstandard2.0\DaniaDaisy.EntityFramework.AssemblyInfo.cs
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\bin\Debug\netstandard2.0\DaniaDaisy.EntityFramework.pdb
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\obj\Debug\netstandard2.0\DaniaDaisy.EntityFramework.dll
+C:\Users\wmadz\source\repos\DaniaDaisy\DaniaDaisy.EntityFramework\obj\Debug\netstandard2.0\DaniaDaisy.EntityFramework.pdb
