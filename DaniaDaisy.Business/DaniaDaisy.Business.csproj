@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DaniaDaisy.DataAccess.Common\DaniaDaisy.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\DaniaDaisy.EntityFramework\DaniaDaisy.EntityFramework.csproj" />
+  </ItemGroup>
+
+</Project>
