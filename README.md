@@ -9,7 +9,7 @@ Assuming we have a portable data access library that will be used across multipl
 
 Data Store Type ? 
 
-In this template ,  Azure Table , Event Log , SQL Database  for centralized , Console and File for on the instance itself . File later may be pulled and mined into your own data warehouse .
+In this template ,  Azure Table , SQL Database  for centralized , Console, Event Log  and File for on the instance itself . File later may be pulled and mined into your own data warehouse .
 
 
 
