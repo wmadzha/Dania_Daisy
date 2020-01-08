@@ -53,6 +53,7 @@ namespace DaniaDaisy.DataAccess.Common.Logger
         public LoggerDBContext(string connectionstring) :base()
         {
             this.ConnectionString = connectionstring;
+            this.Database.EnsureCreated();
         }
         public LoggerDBContext(DbContextOptions<LoggerDBContext> options)
             : base(options)
