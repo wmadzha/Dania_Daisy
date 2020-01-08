@@ -11,9 +11,11 @@ namespace DaniaDaisy.Business.ProductService
         private string _BusinessDataConnectionString { get; set; }
         private DataAccessOperationObjects _DtoObjects { get; set; }
         private ILoggerSink _Sink { get; set; }
+        private ProductContext _ProductContext { get; set; }
         public ProductService(string connectionString)
         {
             _BusinessDataConnectionString = connectionString;
+            _ProductContext = new ProductContext(_BusinessDataConnectionString); 
         }
         public ProductService(string connectionString, ILoggerSink sink):this(connectionString)
         {
@@ -33,10 +35,8 @@ namespace DaniaDaisy.Business.ProductService
                 try
                 {
                     /// Disabled For Testing Purpose - Logger Simulation
-
-                    //ProductContext db = new ProductContext(_BusinessDataConnectionString);
-                    // db.Products.Add(dto.ToAddEntity());
-                    // db.SaveChanges();
+                    // _ProductContext.Products.Add(dto.ToAddEntity());
+                    // _ProductContext.SaveChanges();
                     AddDataAccessResult result = new AddDataAccessResult(MethodName, "Successfully Add Product", true, _Sink);
                     result.AddDataAccessObject(_DtoObjects);
                     result.LogOperation();
