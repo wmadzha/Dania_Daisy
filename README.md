@@ -23,3 +23,12 @@ In below sample output , we're trying to simulate a situation where we have 3 in
 
 ![alt text](
 https://github.com/wmadzha/Dania_Daisy/blob/master/assets/Sample%20Dania%20Daisy%20Output.png?raw=true)
+
+**Special Thanks To**
+
+**Microsoft Open Source Team**
+
+
+Microsoft Entity Framework Core : [View License](https://github.com/dotnet/efcore/blob/master/LICENSE.txt)
+
+Microsoft .NETCore : [View License](https://github.com/dotnet/runtime/blob/master/LICENSE.TXT)
