@@ -7,7 +7,7 @@ Implementation ?
 
 Assuming we have a portable data access library that will be used across multiple application with multiple business logic needs . Implementing this library template will somehow help to have an audit trail sink that will be stored in a centralized data store . 
 
-Data Store Type ? 
+Sink Data Store Type ? 
 
 In this template ,  Azure Table , SQL Database  for centralized , Console, Event Log  and File for on the instance itself . File later may be pulled and mined into your own data warehouse .
 
